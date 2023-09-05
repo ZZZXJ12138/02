@@ -1,4 +1,4 @@
-# APPLICABILITY OF A CHANGE OF DIRECTION ABILITY FIELD TEST IN SOCCER ASSISTANT REFEREES
+# 变向能力场地测试在足球助理裁判员中的适用性
 
 Castagna, C., Impellizzeri, F. M., Bizzini, M., Weston, M., and Manzi, V. (2011)
 
