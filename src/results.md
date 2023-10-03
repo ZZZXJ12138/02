@@ -13,7 +13,7 @@ Receiver operating characteristic analysis showed that
 > <figure align="center">
 >    <img src="./figures/figure1.png" width="50%">
 > </figure>
-> <b>Figure 1.</b> Receiver operating characteristic (ROC) plot for the 10-8-8-10 test performance assuming competitive level as dichotomous variable (i.e., Serie A-B vs. Lega Pro; n = 50, respectively). Area under the curve (AUC = 0.49, p = 0.87; 95%CI 0.38–0.60). Black line = ROC curve.
+> <strong>Figure 1.</strong> Receiver operating characteristic (ROC) plot for the 10-8-8-10 test performance assuming competitive level as dichotomous variable (i.e., Serie A-B vs. Lega Pro; n = 50, respectively). Area under the curve (AUC = 0.49, p = 0.87; 95%CI 0.38–0.60). Black line = ROC curve.
 
 The ICC for the 10-8-8-10 test was 0.90 (n = 64, p < 0.0001, 95% CI 0.84–0.93). The across trials TEM was of 0.21 (95% CI 0.18–0.24) and 0.18 seconds (95% CI 0.16–0.21) for trial 1 vs. 2 and trial 2 vs. 3, respectively.
 
@@ -24,4 +24,4 @@ The interquartile range values for the 10-8-8-10 scores were 9.57 seconds (95% C
 > <figure align="center">
 >    <img src="./figures/figure2.png" width="50%">
 > </figure>
-> <b>Figure 2.</b> Distribution of 10-8-8-10 scores. Vertical black dotted lines represent the limit of the 25 and 75% percentiles.
+> <strong>Figure 2.</strong> Distribution of 10-8-8-10 scores. Vertical black dotted lines represent the limit of the 25 and 75% percentiles.
