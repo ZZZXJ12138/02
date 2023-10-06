@@ -24,5 +24,10 @@
 
 ## 统计分析
 
-The results are expressed as mean ± *SD* and 95% confidence intervals (95% CIs). Normality assumption was verified using the Shapiro–Wilk *W*-test. Student’s *t*-tests (unpaired design) were used to determine any significant difference between the 2 competitive levels (i.e., AR<sub>A-B</sub> and AR<sub>LP</sub>). Homogeneity of variance was tested with the Bartlett test. The effect size (ES) was calculated to assess meaningfulness of differences (8). Effect sizes of >0.8, between 0.8 and 0.5, between 0.5 and 0.2, and <0.2 were considered as large, moderate, small, and trivial, respectively. The intraclass correlation coefficient (ICC) was used to assess relative reliability of the 10-8-8-10 test. Absolute reliability was assessed calculating the typical error of measurement (TEM) according to Hopkins (15). Sensitivity of the 10-8-8-10 test was evaluated using receiver operating characteristic curve (ROC) statistics. To allow ROC calculations, ARs were dichotomized according to their competitive level (i.e., AR<sub>AB</sub> and AR<sub>LP</sub>). Normative data were reported as interquartile range (31). The smallest
-worthwhile change was assumed as 0.2I according to Hopkins at al. (16). Significance was set at 5% (p &leq; 0.05).
+<p style="text-indent: 2em;">本研究结果以“平均值 ± 标准差”表示，置信区间（CI）为 95%。使用 Shapiro-Wilk <i>W</i> 检验验证正态性假设；使用非配对学生 <i>t</i> 检验确定两个竞技水平（即 AR<sub>A-B</sub> 和 AR<sub>LP</sub>）之间是否存在显著差异；使用巴特利特检验法进行方差齐性检验；计算效应量（ES）以评估差异的显著性<sup>8</sup>。</p>
+
+> 💡 **Effect Size (ES) 效应量**
+>
+> **< 0.2**：差异微小；**0.2～0.5**：差异较小；**0.5～0.8**：差异中等；**> 0.8**：差异显著
+
+<p style="text-indent: 2em;">使用组内相关系数（ICC）评估 10-8-8-10 测试的相对可靠性；参考 Hopkins<sup>15</sup> 的研究，计算典型测量误差（TEM）来评估绝对可靠性；使用受试者工作特征曲线（ROC）数据评估 10-8-8-10 测试的敏感度。为了进行 ROC 计算，裁判员根据竞技水平被分为两类（即 AR<sub>A-B</sub> 和 AR<sub>LP</sub>）。参考值数据以四分位距（IQR）的形式报告<sup>31</sup>。根据 Hopkins 等<sup>16</sup> 的论述，最小有意义变化（SWC）设定为 0.2 倍标准差；显著性水平设定为 5% （p ≤ 0.05）。</p>
