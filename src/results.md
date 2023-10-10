@@ -15,13 +15,11 @@
 >
 > 假设裁判员的竞技水平为二分变量，即 Serie A-B vs. Lega Pro，各 50 人；曲线下面积（AUC）= 0.49，p = 0.87；95% CI 0.38–0.60；黑色实线为受试者工作特征曲线。
 
-10-8-8-10 测试的组内相关系数为 0.90（n = 64，p < 0.0001，95% CI 0.84–0.93）。第一次与第二次测试间的典型测量误差（TEM）为 0.21 秒（95% CI 0.18–0.24），第二次与第三次测试间的 TEM 为 0.18 秒（95% CI 0.16–0.21）。
+<p style="text-indent: 2em;">10-8-8-10 测试的组内相关系数为 0.90（n = 64，p < 0.0001，95% CI 0.84–0.93）。第一次与第二次测试间的典型测量误差（TEM）为 0.21 秒（95% CI 0.18–0.24），第二次与第三次测试间的 TEM 为 0.18 秒（95% CI 0.16–0.21）。基于所有裁判员（n = 100）的平均成绩或最佳成绩进行计算，测试的最小有意义变化（SWC）均为 0.07 秒。</p>
 
-The smallest worthwhile change for the 10-8-8-10 test (pooled data, n = 100) was of 0.07 seconds using either the mean or the best of the pooled (i.e., AR<sub>A-B</sub> and AR<sub>C</sub>) values.
-
-The interquartile range values for the 10-8-8-10 scores were 9.57 seconds (95% CI 9.39–9.64) and 9.94 seconds (95% CI 9.85–10.09) for the 25 and 75% percentiles, respectively (Figure 2).
+<p style="text-indent: 2em;">测试成绩的 25% 百分位数为 9.57 秒（95% CI 9.39–9.64），75% 百分位数为 9.94 秒（95% CI 9.85–10.09）（如图 2 所示）。</p>
 
 > <figure align="center">
 >    <img src="./figures/figure2.png" width="50%">
 > </figure>
-> <strong>Figure 2.</strong> Distribution of 10-8-8-10 scores. Vertical black dotted lines represent the limit of the 25 and 75% percentiles.
+> <strong>图 2.</strong> 10-8-8-10 测试成绩分布图（垂直黑色虚线分别代表 25% 百分位数和 75% 百分位数）
